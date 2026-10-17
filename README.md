@@ -27,8 +27,7 @@ This repository contains the code used to create the material of the Master's th
 		- see`nbooks_plotting` table below
 	- for all code that loads/ plots ICON or observational datasets:
 		- IMERG reference grid:
-			- either: run **`04`** (save IMERG grid as reference) once.
-			- or: get the `./output/aux/imerg_grid.nc` file from Output data 
+			- run **`04`** (save IMERG grid as reference) once
 		- External datasets: (accessed via tools `handle_ICON_data`, `handle_OBS_data`)
 			- ICON *ngc4008* (production run NextGEMS) (Segura et al. 2025)
 			- NCEP/CPC L3 Half Hourly 4km Global (60S 60N) Merged IR V1 (NASA-Tb) (Janowiak et al. 2017)
