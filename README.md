@@ -14,7 +14,7 @@ This repository contains the code used to create the material of the Master's th
 | `runner_scripts/`    | Python scripts (converted automatically from the notebooks by the starter) and lists of timestamps etc. used as runner input |
 | `starters/`          | Bash wrapper scripts: convert a notebook to a script, make it executable and submit the runner to SLURM                      |
 | `tools/`             | Modules used throughout the analysis                                                                                         |
-## 2a. Workflow reproduction of plots
+## 2a. How to reproduce the plots
 - plotting is done in the notebooks in `nbooks_plotting` based on output data (either recreate it following 2b. or download it from  [10.5281/zenodo.23436287](10.5281/zenodo.23436287))
 	- Exceptions (plots live in the main notebook):
 		- warm BT mean of deleted cell features = in `25`
@@ -35,7 +35,7 @@ This repository contains the code used to create the material of the Master's th
 		- NASA Earthdata account:
 			- See [https://github.com/nasa/gesdisc-tutorials/blob/main/notebooks/How_to_Generate_Earthdata_Prerequisite_Files.ipynb](https://github.com/nasa/gesdisc-tutorials/blob/main/notebooks/How_to_Generate_Earthdata_Prerequisite_Files.ipynb)
 - adapt input paths in notebooks and run
-## 2b. Workflow for reproduction of output data
+## 2b. How to reproduce the data
 - set up:
 	- see 2a. for environment, tools & all code that loads/ plots ICON or observational datasets 
 	- HPC with SLURM: The starters submit jobs via `sbatch`.
