@@ -1,0 +1,31 @@
+name: env_masterthesis_minimized
+channels:
+  - conda-forge
+dependencies:
+  - numpy             
+  - pandas
+  - xarray
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - cartopy
+  - healpy
+  - tobac>=1.6.3
+  - scitools-iris    
+  - earthaccess       
+  - xesmf
+  - dask
+  - h5py
+  - imageio
+  - psutil
+  - tqdm
+  - zarr=2.18.3       
+  - h5netcdf         
+  - s3fs             
+  - cftime            
+
+  - pip
+  - pip:
+      - ccic         
+

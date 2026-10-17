@@ -1,0 +1,28 @@
+/original_bckp
+/output
+
+/nbooks/00_refresh_edl_token.ipynb
+
+#/data
+#/examplenbooks
+#/uploadedfiles
+#/nbooks/old
+#/runner/LOG
+#/original_compute_collection
+#/PE_example_withdata
+
+# delete later maybe
+/runner/LOG
+
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+
+
+# Python Cache
+__pycache__/
+*.pyc
