@@ -2,7 +2,7 @@
 
 > **Leonie Marie Hartog - University of Leipzig Institute of Meteorology / Leibniz Institute for Tropospheric Research - 2026**
 
-This repository contains the code used to create the material of the Master's thesis **"Future Changes of Extreme Tropical Precipitation Cells and their Anvils from a Global Storm-Resolving Simulation"**. It covers all steps from data preprocessing, input layer comparison, segmentation, linking and property calculation up to the final datasets, as well as the notebooks used to create the figures and the change assessment.
+This repository contains the code used to create the material of the Master's thesis **"Future Changes of Extreme Tropical Precipitation Cells and their Anvils from a Global Storm-Resolving Simulation"**. 
 ## Contents 
 
 1. Prerequisites
