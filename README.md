@@ -13,7 +13,8 @@ This repository contains the code used to create the material of the Master's th
 4. Running notebooks as runners (HPC)
 5. Folder structure
 6. Notebook overview
-7. Data sources, citation, contact
+7. Tools overview
+8. Data sources, citation, contact
 
 ## 1. Prerequisites
 
