@@ -2,7 +2,7 @@
 
 > **Leonie Marie Hartog - University of Leipzig Institute of Meteorology / Leibniz Institute for Tropospheric Research - 2026**
 
-This repository contains the code used to create the material of the Master's thesis.  A publication on Zenodo [10.5281/zenodo.23436287](10.5281/zenodo.23436287) contains the related output data needed to reproduce the plots (2a.) as well as the material of this repository. 
+This repository contains the code used to create the material of the Master's thesis.  A publication on Zenodo [https://doi.org/10.5281/zenodo.23436287](https://doi.org/10.5281/zenodo.23436287) contains the related output data needed to reproduce the plots (2a.) as well as the material of this repository. 
 ## 1. Contents
 
 | Folder               | Content                                                                                                                      |
