@@ -132,7 +132,7 @@ bash starters/convert_run_nbook27.sh
 | `plots_figures`    | plotting figures                                                         |
 | `plots_mapping`    | plotting maps                                                            |
 | `use_tobac`        | using tobac                                                              |
-## 6. Data sources, citation, contact
+## 6. Data sources, contact
 
 - Simulation:
 	- ICON *ngc4008* (production run NextGEMS)
